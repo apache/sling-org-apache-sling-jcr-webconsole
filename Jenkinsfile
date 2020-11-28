@@ -16,5 +16,6 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-
+@Library('sling@feature/SLING-9839-sonar-with-java11') _
 slingOsgiBundleBuild()
+
