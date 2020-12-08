@@ -42,6 +42,10 @@
       <tag>org.apache.sling.jcr.webconsole-1.1.0</tag>
   </scm>
 
+    <properties>
+        <project.build.outputTimestamp>2020-12-08T13:43:05Z</project.build.outputTimestamp>
+    </properties>
+
     <reporting>
         <plugins>
             <plugin>
